@@ -1,0 +1,8 @@
+.tasksBoard {
+    display: flex;
+    justify-content: space-between;
+    &__section {
+        width: 27%;
+        border: 2px,solid,black;
+    }
+}

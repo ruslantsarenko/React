@@ -1,5 +1,6 @@
 
 import './App.css'
+import AddForm from './components/TasksBoard/AddForm/AddForm' 
 import './components/TasksBoard/TasksBoard'
 import TasksBoard from './components/TasksBoard/TasksBoard'
 
